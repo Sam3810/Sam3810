@@ -6,4 +6,5 @@
 
 - 🎉 I started programming on 13/4/23
 - 📚 In the future I could learn backend development
-![MXfm](https://github.com/Sam3810/Sam3810/assets/118696492/1f1572fb-62f5-4c32-8f47-887d7129d23a)
+
+![v3jIz6](https://github.com/Sam3810/Sam3810/assets/118696492/d8d782ae-925e-43b2-9cc4-f118cc9d973b)
