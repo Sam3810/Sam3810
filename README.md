@@ -1,9 +1,9 @@
 ### Hi, I'm Samuel Vanegas Bueno 👨‍💻
-![fe4c439f3a1be55b255b19718bd01c52](https://github.com/Sam3810/Sam3810/assets/118696492/2d268247-e2ed-43e9-b53b-023ed0054413)
 
 
 
-<!--
+
+<--
 **Sam3810/Sam3810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
