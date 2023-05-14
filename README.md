@@ -1,5 +1,6 @@
 ### Hi, I'm Samuel Vanegas Bueno 👨‍💻
-![robot-idle](https://github.com/Sam3810/Sam3810/assets/118696492/9e40fb53-8820-4d21-9acb-cc47d0a755d5)
+![dfk3vrs-63ff1093-ddfa-41d2-9de2-8dff7deb3834](https://github.com/Sam3810/Sam3810/assets/118696492/67ad766f-fc99-49bc-aac9-70b1fe3709af)
+
 
 <!--
 **Sam3810/Sam3810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
