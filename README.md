@@ -1,5 +1,6 @@
 ### Hi, I'm Samuel Vanegas Bueno 👨‍💻
-![dfk3vrs-63ff1093-ddfa-41d2-9de2-8dff7deb3834](https://github.com/Sam3810/Sam3810/assets/118696492/67ad766f-fc99-49bc-aac9-70b1fe3709af)
+![fe4c439f3a1be55b255b19718bd01c52](https://github.com/Sam3810/Sam3810/assets/118696492/2d268247-e2ed-43e9-b53b-023ed0054413)
+
 
 
 <!--
@@ -16,5 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 
