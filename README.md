@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samuel Vanegas Bueno</h1>
 <h3 align="center">Colombian Front-End Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sam3810&label=Profile%20views&color=12d343&style=flat" alt="sam3810" /> </p>
-
 - 🔭 I’m currently working on [Portfolio](https://samuelvanegasbueno.netlify.app)
 
 - 🌱 I’m currently learning **JavaScript**
@@ -14,9 +12,6 @@
 - 📫 How to reach me **samuelbuenovanegas9@gmail.com**
 
 - ⚡ Fun fact **I like astronomy**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
