@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Samuel Vanegas Bueno</h1>
 <h3 align="center">Colombian Front-End Developer</h3>
 
-- 🔭 I’m currently working on [Portfolio](https://samuelvanegasbueno.netlify.app)
+- 🔭 I’m currently working on [**Portfolio**](https://samuelvanegasbueno.netlify.app)
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://samuelvanegasbueno.netlify.app](https://samuelvanegasbueno.netlify.app)
+- 👨‍💻 All of my projects are available <a href="https://samuelvanegasbueno.netlify.app">**here**</a>
 
 - 💬 Ask me about **HTML and CSS**
 
