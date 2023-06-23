@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋">, I'm Samuel Vanegas Bueno</h1>
 <h3 align="center">Colombian Front-End Developer</h3>
 
-- 🔭 I’m currently working on [**Dra. Oriana Page**](https://orianabuenoduque.netlify.app)
+- 🔭 I’m currently working on  <a target="_blank" href="https://cocinerodex.netlify.app">**Pokedex 🐲**</a>
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available <a href="https://samuelvanegasbueno.netlify.app">**here**</a> and <a href="https://github.com/Sam3810?tab=repositories">**here**</a>
+- 👨‍💻 All of my projects are available <a target="_blank" href="https://samuelvanegasbueno.netlify.app">**here**</a>
 
 - 💬 Ask me about **HTML and CSS**
 
