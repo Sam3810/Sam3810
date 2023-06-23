@@ -1,6 +1,8 @@
 <h1 align="center">Hi <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋">, I'm Samuel Vanegas Bueno</h1>
 <h3 align="center">Colombian Front-End Developer</h3>
 
+<img width="300px" align="right" src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/f1dd5233ac80be4.png">
+
 - 🔭 I’m currently working on  <a target="_blank" href="https://cocinerodex.netlify.app">**Pokedex 🐲**</a>
 
 - 🌱 I’m currently learning **JavaScript**
