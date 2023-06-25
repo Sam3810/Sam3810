@@ -3,7 +3,7 @@
 
 <img width="300px" align="right" src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/f1dd5233ac80be4.png">
 
-- 🔭 I’m currently working on  <a target="_blank" href="https://cocinerodex.netlify.app">**Pokedex 🐲**</a>
+- 🔭 I’m currently working on  <a target="_blank" href="https://cocineroblog.netlify.app">**My Blog 🤩**</a>
 
 - 🌱 I’m currently learning **JavaScript**
 
