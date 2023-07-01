@@ -3,11 +3,11 @@
 
 <img width="300px" align="right" src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/f1dd5233ac80be4.png">
 
-- 🔭 I’m currently working on  <a target="_blank" href="https://cocineroblog.netlify.app">**My Blog**</a>
+- 🔭 I’m currently working on  <a target="_blank" href="https://devsbloog.netlify.app">**My Blog**</a>
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available <a target="_blank" href="https://samuelvanegasbueno.netlify.app">**here**</a>
+- 👨‍💻 All of my projects are available <a target="_blank" href="https://devsbloog.netlify.app/me/me.html">**here**</a>
 
 - 💬 Ask me about **HTML and CSS**
 
