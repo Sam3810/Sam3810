@@ -12,8 +12,6 @@
 - 💬 Ask me about **HTML and CSS**
 
 - 📫 How to reach me **samuelbuenovanegas9@gmail.com**
-
-- ⚡ Fun fact **I like astronomy**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
